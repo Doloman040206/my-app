@@ -1,0 +1,4 @@
+{
+  "/api/piza/route": "app/api/piza/route.js",
+  "/api/piza/[id]/route": "app/api/piza/[id]/route.js"
+}
