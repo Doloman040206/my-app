@@ -45,6 +45,7 @@ const App = () => {
 				<div className="logo">
 					Pizza <br /> Day
 				</div>
+				<p>gfgh44</p>
 				<div className="adress">
 					Мережа магазинів <br /> по продажу піци
 				</div>
